@@ -1,3 +1,5 @@
 hello world profile
 this is profile of software engineer 
 adding new file adding new feature
+adding skill feature  
+adding some feature on plate 
