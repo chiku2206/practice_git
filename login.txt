@@ -5,4 +5,12 @@ logs are created by some ocdes eror
 adding some payment feature logs
 ADDING SOME NEW FEATURE OF CONTACT FEATURE 
 some feature desgine awert132 
-status : login active status
+status : PS C:\Users\Namrata Bagde\practice_git> cat login.txt
+hello login world 
+hello namrata
+hello this is new line added in login.txt
+logs are created by some ocdes eror 
+adding some payment feature logs
+ADDING SOME NEW FEATURE OF CONTACT FEATURE 
+some feature desgine awert132 
+status : login active status on main 
